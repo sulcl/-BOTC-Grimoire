@@ -1,0 +1,6 @@
+{
+  "name": "BOTC Grimoire",
+  "description": "Blood on the Clocktower Storyteller Grimoire & real-time game state tracker with official tokens, night order runner, reminders, and town square.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
